@@ -26,7 +26,7 @@ if len(sys.argv) > 1:
 	#add to the notebook file
 	file_index = file_len(fn)
 	with open(fn, "a") as myfile:
-		myfile.write(str(file_index + 1) + ". " + sys.argv[1])
+		myfile.write(str(file_index) + ". " + sys.argv[1])
 		if note:
 			myfile.write("  |  note: " + note)
 		myfile.write("\n")

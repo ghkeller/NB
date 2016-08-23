@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+import sys, os
+
+note_flag = False
+note = ""
+fn = os.path.join(os.path.dirname(__file__), 'nbref.txt')
+
+with open (fn, "r") as myfile:
+	for i in myfile:
+		print i

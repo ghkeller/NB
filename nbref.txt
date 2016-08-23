@@ -1,5 +1,11 @@
-1. boog  |  note: Random thingsz
-2. boog  |  note: Random thingsz
-3. boog  |  note: Random thingsz
-4. boog  |  note: Testing path
-5. q
+
+2. https://www.google.com/patents/US6218632
+3. http://www.google.com/patents/US4165483
+4. http://scitation.aip.org/content/aip/journal/apl/92/1/10.1063/1.2830815
+5. https://www.google.com/patents/US4227419
+6. https://www.google.com/patents/US4177496
+7. https://www.google.com/patents/US4358814
+8. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=
+9. http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20150003271.pdf
+9. http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20150003271.pdf
+10. http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5334480
